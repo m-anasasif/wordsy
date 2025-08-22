@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/wordsy/static/css/main.583cc609.css",
+    "main.js": "/wordsy/static/js/main.a628911b.js",
+    "index.html": "/wordsy/index.html",
+    "main.583cc609.css.map": "/wordsy/static/css/main.583cc609.css.map",
+    "main.a628911b.js.map": "/wordsy/static/js/main.a628911b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.583cc609.css",
+    "static/js/main.a628911b.js"
+  ]
+}
